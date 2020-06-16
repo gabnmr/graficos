@@ -124,6 +124,8 @@ Colocar escala ao lado direito dos dados:
  - *"option = "C" -> uma das 5 opções de escala de cor.*
 
 --
+
+
 Colocar título, subtítulo e texto de rodapé:
 
       labs(title = 'Temperaturas em Belo Horizonte',
