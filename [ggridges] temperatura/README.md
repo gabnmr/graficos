@@ -84,6 +84,8 @@ Chamar o pacote e os dados:
    - *"stat(x)" -> usada para cálculos estéticos. Fica armazenada para depois.*
 
 --
+
+
 Chamar o tipo de gráfico e suas características:
 
       geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01) +
@@ -93,6 +95,8 @@ Chamar o tipo de gráfico e suas características:
  - *"rel_min_height = 0.01" -> altura mínima do gráfico. Dados menores que 0.01 não são mostrados.*
 
 --
+
+
 Definir o tipo de eixo:
 
 Eixo x:
@@ -135,6 +139,8 @@ Definir títulos dos eixos:
  - *"ylab(NULL)" -> eixo y sem título*
 
 --
+
+
 Definir propriedades globais do tema:
 
       theme_ridges(font_size = 13, grid = TRUE) +
