@@ -45,10 +45,10 @@ ggplot(dados_2, aes(temperature, reorder(month_name,desc(month)), fill = stat(x)
   labs(title = 'Temperaturas em Belo Horizonte',
     subtitle = 'Distribuição das temperaturas médias por mês em 2019',
     caption = "Fonte: INMET. 
-    Feito por @gabrielnmr, inspirado em @awhstin.") +
+    Feito por @gabnmr, inspirado em @awhstin.") +
   xlab("Temperatura") +
   ylab(NULL) +
   theme_ridges(font_size = 13, grid = TRUE) +
   theme(axis.title.x = element_text(hjust = 0.5), plot.caption.position = "plot", 
-        plot.caption = element_text(size = 8))
+        plot.caption = element_text(size = 10))
         
