@@ -165,4 +165,4 @@ Definir propriedades locais do tema:
     plot.caption = element_text(size = 8))
 ````
  - *"plot.caption =" -> seleciona a nota de rodapé;*
- - *"element_text(size = 8)" -> coloca o tamanho do texto como 8.*
+ - *"element_text(size = 10)" -> coloca o tamanho do texto como 8.*
