@@ -131,7 +131,7 @@ Colocar título, subtítulo e texto de rodapé:
       labs(title = 'Temperaturas em Belo Horizonte',
         subtitle = 'Distribuição das temperaturas médias por mês em 2019',
         caption = "Fonte: INMET. 
-        Feito por @gabrielnmr, inspirado em @awhstin.") +
+        Feito por @gabnmr, inspirado em @awhstin.") +
 
 Definir títulos dos eixos:
 
